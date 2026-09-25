@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Aziza     
+  
+<!-- About me 
+""" I am currently studying computer science, and I also really enjoy AI engineering.
 
-<!--
 **az1zagw/az1zagw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
